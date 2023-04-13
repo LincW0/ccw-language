@@ -1,0 +1,4 @@
+#ifndef _CCW_COMPILER_CONFIG_H_
+#define _CCW_COMPILER_CONFIG_H_
+const int BUFFER_SIZE=4096;
+#endif
